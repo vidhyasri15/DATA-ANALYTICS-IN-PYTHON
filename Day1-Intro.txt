@@ -1,0 +1,22 @@
+1.variable ,value
+2.datatype- int,float,str(len,in,range),bool
+3.list -[list of list,mutAble,+,del(),max()],tuple-(
++,*),dictionary-{key:value},set{union,intersection,difference}.
+
+Mini Challenge
+write a program that:
+
+1.Creates a dictionary of 5 students and their marks.
+
+2.Calculates the average marks.
+
+3.Finds the highest and lowest scorer.
+
+4.Displays all students scoring above the average.
+
+5.Allows the user to search for a student by name.
+
+6.Updates a student's marks and displays the revised average.
+
+
+
